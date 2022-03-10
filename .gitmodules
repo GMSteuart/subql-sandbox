@@ -1,0 +1,6 @@
+[submodule "subql"]
+	path = subql
+	url = https://github.com/GMSteuart/subql.git
+[submodule "subquery-spectator"]
+	path = subquery-spectator
+	url = https://github.com/GMSteuart/subquery-spectator.git
